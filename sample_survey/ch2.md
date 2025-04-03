@@ -1,5 +1,7 @@
 # 📘 Chapter 2：Elements of the Sampling Problem 樣本問題要素
 
+[![hackmd-github-sync-badge](https://hackmd.io/HUi78HlPRJitcn3dPKvwDA/badge)](https://hackmd.io/HUi78HlPRJitcn3dPKvwDA)
+
 ## 📚 本章架構
 
 1. Technical Terms（專有名詞）  
