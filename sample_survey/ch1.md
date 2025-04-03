@@ -1,8 +1,3 @@
----
-title: "\U0001F4D8 Chapter 1：Introduction 統計導論"
-
----
-
 # 📘 Chapter 1：Introduction 統計導論
 
 [![hackmd-github-sync-badge](https://hackmd.io/FKEmdxCZQiKMbxU4ExFyyQ/badge)](https://hackmd.io/FKEmdxCZQiKMbxU4ExFyyQ)
