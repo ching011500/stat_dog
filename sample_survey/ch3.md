@@ -1,5 +1,7 @@
 # 📘 Chapter 3：Some Basic Concepts of Statistics
 
+[![hackmd-github-sync-badge](https://hackmd.io/UmY0ZzSIRHGcoU8CqYOOIA/badge)](https://hackmd.io/UmY0ZzSIRHGcoU8CqYOOIA)
+
 ## ✅ 章節大綱
 
 1. Infinite Population Case（無限母體情況）  
